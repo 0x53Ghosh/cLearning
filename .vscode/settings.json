@@ -13,7 +13,7 @@
     "**/shell.nix": false,
     "**/.vscode/settings.json": true,
     "**/bootstrap": true,
-    "**/README.md": true
+    "**/README.md": false
   },
   "terminal.integrated.defaultProfile.linux": "ProjectEnv"
 }

@@ -4,6 +4,7 @@ pkgs.mkShell {
   buildInputs = with pkgs; [
     clang
     gdb
+    gnumake
   ];
 
   shellHook = ''
